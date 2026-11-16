@@ -7,6 +7,10 @@ ratings and ranks, and the game shows the changes as **animated pop-ups** and on
 
 > Academic project for the Game Development course, Ariel University (2025).
 
+> **About this code:** this repository is a 2026 rewrite of my original course project, built with AI-assisted development (Claude Code) as hands-on practice with AI tools. The original design, game/system logic and requirements come from the 2025 project.
+
+**Author:** Ilay Yerushalmi · [github.com/Ilay-Yerushalmy](https://github.com/Ilay-Yerushalmy)
+
 ---
 
 ## Features
