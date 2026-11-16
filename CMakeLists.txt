@@ -7,6 +7,9 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 include(FetchContent)
 
+# raylib 5.0 declares cmake_minimum_required(< 3.5), which CMake 4.x rejects without this.
+set(CMAKE_POLICY_VERSION_MINIMUM 3.5)
+
 # ---------------------------------------------------------------------------
 # Third-party dependencies (downloaded automatically on first configure)
 # ---------------------------------------------------------------------------
